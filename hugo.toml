@@ -1,4 +1,4 @@
-baseURL = 'https://tongwen.com/'
+baseURL = 'https://tw.com/'
 locale = 'zh-cn'
 title='我的博客'
 
