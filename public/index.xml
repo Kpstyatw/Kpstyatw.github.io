@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>首页 on 我的博客</title>
+    <title>主页 on 我的博客</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in 首页 on 我的博客</description>
+    <description>Recent content in 主页 on 我的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
@@ -16,6 +16,45 @@
       <description>&lt;p&gt;这是我的第一篇博客。&lt;/p&gt;
 &lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
 &lt;p&gt;Hello Hugo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/chem_dynamic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chem_dynamic/</guid>
+      <description>&lt;p&gt;预平衡：  H₂O₂ + OH⁻  ⇌  HOO⁻ + H₂O                    pKa(H₂O₂) = 11.6&lt;/p&gt;
+&lt;p&gt;步骤1：   Acr + H₂O₂  →  Int                             律速步骤，k₁
+[HOO⁻ 亲核进攻吖啶酯 C-9 位羰基，生成四面体过氧化物中间体]&lt;/p&gt;
+&lt;p&gt;步骤2：   Int + OH⁻   →  dioxetanone + ArO⁻              快速，k₂
+[离去基团（苯酚酯）脱除，形成高张力四元环]&lt;/p&gt;
+&lt;p&gt;步骤3：   dioxetanone →  N-甲基吖啶酮* + CO₂ ↑           协同分解
+[四元环分解产生激发态产物]&lt;/p&gt;
+&lt;p&gt;步骤4：   N-甲基吖啶酮* → N-甲基吖啶酮 + hν (430nm)      光子发射&lt;/p&gt;
+&lt;p&gt;竞争反应：Int          →  非发光产物                      暗分解，k_d
+HNO₃ + OH⁻  →  NO₃⁻ + H₂O                     快速中和&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;关于我&#34;&gt;关于我&lt;/h1&gt;
+&lt;p&gt;工程研发 / AI / IVD技术方向。&lt;/p&gt;
+&lt;p&gt;关注领域：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;化学发光&lt;/li&gt;
+&lt;li&gt;医疗仪器研发&lt;/li&gt;
+&lt;li&gt;AI辅助工程&lt;/li&gt;
+&lt;li&gt;Python建模&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;技术栈&#34;&gt;技术栈&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;数据分析&lt;/li&gt;
+&lt;li&gt;系统工程&lt;/li&gt;
+&lt;li&gt;化学动力学仿真&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

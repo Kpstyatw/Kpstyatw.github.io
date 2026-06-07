@@ -17,5 +17,21 @@
 &lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
 &lt;p&gt;Hello Hugo.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/chem_dynamic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chem_dynamic/</guid>
+      <description>&lt;p&gt;预平衡：  H₂O₂ + OH⁻  ⇌  HOO⁻ + H₂O                    pKa(H₂O₂) = 11.6&lt;/p&gt;
+&lt;p&gt;步骤1：   Acr + H₂O₂  →  Int                             律速步骤，k₁
+[HOO⁻ 亲核进攻吖啶酯 C-9 位羰基，生成四面体过氧化物中间体]&lt;/p&gt;
+&lt;p&gt;步骤2：   Int + OH⁻   →  dioxetanone + ArO⁻              快速，k₂
+[离去基团（苯酚酯）脱除，形成高张力四元环]&lt;/p&gt;
+&lt;p&gt;步骤3：   dioxetanone →  N-甲基吖啶酮* + CO₂ ↑           协同分解
+[四元环分解产生激发态产物]&lt;/p&gt;
+&lt;p&gt;步骤4：   N-甲基吖啶酮* → N-甲基吖啶酮 + hν (430nm)      光子发射&lt;/p&gt;
+&lt;p&gt;竞争反应：Int          →  非发光产物                      暗分解，k_d
+HNO₃ + OH⁻  →  NO₃⁻ + H₂O                     快速中和&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
